@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroPessoaApi", "CadastroPessoaApi\CadastroPessoaApi.csproj", "{F626964B-A783-40E3-B8F7-5D0CAF6458A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F626964B-A783-40E3-B8F7-5D0CAF6458A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F626964B-A783-40E3-B8F7-5D0CAF6458A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F626964B-A783-40E3-B8F7-5D0CAF6458A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F626964B-A783-40E3-B8F7-5D0CAF6458A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E604687-2865-4260-A1CC-8BB4E2EB0090}
+	EndGlobalSection
+EndGlobal

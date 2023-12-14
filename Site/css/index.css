@@ -1,0 +1,30 @@
+div{
+    text-align: centers;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: radial-gradient(circle, #ffcc00, #ff3300);
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th,td{
+    border: 1px solid #110c0cdd;
+    text-align: left;
+    padding: 8px;
+}
+th{
+    background-color: #130d0d;
+    color: aliceblue;
+}
+button{
+    cursor: pointer;
+    padding: 5px 10px;
+    color: aliceblue;
+    background-color: crimson;
+}

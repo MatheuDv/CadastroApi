@@ -1,0 +1,33 @@
+div{
+    text-align: center;
+}
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    color: crimson;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    background: radial-gradient(circle, #ffcc00, #ff3300);  
+}
+input {
+    background-color: #ee8309;
+}
+label {
+    display:block;
+    margin-bottom:8px;
+    color: rgb(203, 12, 228);
+}
+input{
+    width: 30%;
+    padding: 4px;
+    margin-bottom: 8px;
+}
+button{
+    cursor: pointer;
+    padding: 8px;
+    color: aliceblue;
+    background-color: crimson;
+}
